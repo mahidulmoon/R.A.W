@@ -1,0 +1,8 @@
+simple linear regression :
+
+    y = b0 + b1x1
+    
+    here, y = dependent variable
+            b0 = constant
+            b1 = coefficient
+            x1 = independent variable
